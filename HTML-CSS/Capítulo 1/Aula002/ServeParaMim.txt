@@ -14,4 +14,4 @@ Este curso NÃO SERVE pra mim se:
 - Estou com pressa e preciso aprender em poucas semanas;
 - Quero apenas uma lista de comandos, sem 'papinho extra';
 - Não consigo esperar o lançamento de aulas semanais;
-- Prefiro aprender consultando a documentação oficial das linguagens.
+- Prefiro aprender consultando a documentação oficial da linguagem.
