@@ -6,4 +6,4 @@ A internet é uma rede global com algumas subdivisões:
 - FTP;
 - HTTP;
 
-World Wide Web fica na subdivisão do HTTP, dentro da rede que chamamos de 'internet'.
+World Wide Web (WWW) fica na subdivisão do HTTP, dentro da rede que chamamos de 'internet'.
