@@ -1,0 +1,9 @@
+A internet começou a ser criada e desenvolvida nos Estados Unidos durante a Guerra Fria, inicialmente chamada de Internetconnect Working, que foi abreviada posteriormente para "Internet", apenas.
+
+A internet é uma rede global com algumas subdivisões:
+- Gopher;
+- SMT, POP3 e IMAP;
+- FTP;
+- HTTP;
+
+World Wide Web fica na subdivisão do HTTP, dentro da rede que chamamos de 'internet'.

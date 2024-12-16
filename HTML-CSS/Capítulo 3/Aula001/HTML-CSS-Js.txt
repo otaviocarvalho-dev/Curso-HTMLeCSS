@@ -1,0 +1,35 @@
+A diferença entre HTML, CSS e JavaScript:
+
+HTML - HyperText Markup Language (Linguagem de Marcação de HíperTexto)
+CSS - Cascading Style Sheets (Folhas de Estilo Cascata)
+JavaScript - Linguagem de programação
+
+HTML - Conteúdo de uma página web (título, texto, imagem, vídeo, tabela, lista e etc.)
+CSS - Design de uma página web (cores, tamanhos, posicionamento do conteúdo, sombras e etc.)
+JavaSxript - Interações de uma página web (menus, animações, validações, pop-up's e etc.)
+
+tags:
+
+<h1> exemplo de título </h1>
+<p> exemplo de parágrafo </<p>
+<img src="foto.png" alt="exemplo de foto">
+
+Estrutura básica de um elemento HTML:
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head> (configurações)
+
+        <meta charset="UTF-8">
+        <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+        <title>document</title>
+
+    </head>
+
+    <body> (corpo)
+
+        <h1>Olá, mundo!</h1>
+
+    </body>
+</html>

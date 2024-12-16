@@ -1,0 +1,20 @@
+Livros:
+
+- HTML5, Mark Pilgrim;
+- CSS, Eric Meyer;
+- Flexbox in CSS, Estelle Weyl;
+- Grid Layout in CSS, Eric Meyer;
+- HTML5 e CSS3, Elizabeth Castro e Bruce Hyslop;
+- HTML e CSS, Elizabeth Robson e Eric Freeman;
+- HTML e CSS, Jon Duckett;
+- Crie Seu Próprio Site, Nate Cooper e Kim Gee;
+- HTML5, Mauricio Samy Sila;
+- HTM5 e CSS3, Mauricio Samy Silva;
+- CSS3, Mauricio Samy Silva;
+- CSS Grid Layout, Mauricio Samy Silva;
+- Curso de Design Gráfico, David Dabner;
+- Psicologia das Cores, Eva Heller;
+- Design, Bob e Maggie Gordon;
+- Pensar com Tipos, Ellen Lupton;
+- Flexbox Explained, Jorge Montoya e Stephen Burge;
+- CSS Grid Explained, Jorge Montoya e Stephen Burge.

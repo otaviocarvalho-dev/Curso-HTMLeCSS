@@ -1,0 +1,17 @@
+Este curso SERVE para mim se:
+
+- Me interesso em aprender a criar sites, mas não sei por onde começar;
+- Já tentei, mas acho confuso 'decorar' tantos comandos;
+- Tenho uma boa base, mas quero me aprofundar;
+- Consigo adaptar códigos prontos, mas não sei criar projetos próprios;
+- Estou tendo dificuldade com esta matéria na faculdade;
+- Além de aprender a criar sites, quero deixá-los na internet.
+
+Este curso NÃO SERVE pra mim se:
+
+- Eu já sei tudo sobre HTML5 e CSS3;
+- Estou procurando por códigos prontos e templates para sites;
+- Estou com pressa e preciso aprender em poucas semanas;
+- Quero apenas uma lista de comandos, sem 'papinho extra';
+- Não consigo esperar o lançamento de aulas semanais;
+- Prefiro aprender consultando a documentação oficial das linguagens.

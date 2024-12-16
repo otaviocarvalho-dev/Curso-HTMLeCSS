@@ -1,0 +1,6 @@
+Exemplo: www.youtube.com/cursoemvideo
+
+Domínio: 'youtube'
+Sub-domínio: 'www'
+TLP: '.com'
+Caminho: '/cursoemvideo'

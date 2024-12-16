@@ -1,0 +1,21 @@
+Representação de dados:
+
+Byte: armazenamento mínimo de uma informação, composto por 8 bits;
+Código binário: linguagem de computadores em que é utilizado apenas os algarismos 0 e 1;
+01000001 = A
+
+Múltiplos do byte:
+
+1024 bytes = 1 kilobyte (KB)
+1024 kilobytes = 1 megabyte (MB)
+1024 megabytes = 1 gigabyte (GB)
+1024 gigabytes = 1 terabyte (TB)
+1024 terabytes = 1 petabyte (PB)
+1024 petabytes = 1 hexabyte (EB)
+1024 hexabytes = 1 zetabyte (ZB)
+1024 zetabytes = 1 yotabyte (YB)
+
+MB != Mb:
+
+MB = Megabytes (armazenamento)
+Mb = Megabits (transmissão)
