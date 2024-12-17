@@ -7,6 +7,7 @@ Este curso SERVE para mim se:
 - Estou tendo dificuldade com esta matéria na faculdade;
 - Além de aprender a criar sites, quero deixá-los na internet.
 
+
 Este curso NÃO SERVE pra mim se:
 
 - Eu já sei tudo sobre HTML5 e CSS3;
