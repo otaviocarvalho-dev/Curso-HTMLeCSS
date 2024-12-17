@@ -1,4 +1,4 @@
-Livros Recomendados:
+Livros recomendados:
 
 - HTML5, Mark Pilgrim;
 - CSS, Eric Meyer;
