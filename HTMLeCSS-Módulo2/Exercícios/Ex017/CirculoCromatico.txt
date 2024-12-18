@@ -1,0 +1,54 @@
+Círculo cromático:
+
+12 cores principais.
+
+
+
+Cores primárias:
+
+- Amarelo
+- Vermelho
+- Azul
+
+
+Cores secundárias:
+
+- Laranja
+- Roxo
+- Verde
+
+
+Cores terciárias:
+
+- Amarelo-alaranjado
+- Vermelho-alaranjado
+- Vermelho-arroxeado
+- Azul-arroxeado
+- Azul-esverdeado
+- Amarelo-esverdeado
+
+
+
+Temperatura das cores:
+
+Cores quentes:
+
+- Amarelo
+- Amarelo-alaranjado
+- Laranja
+- Vermelho-alaranjado
+- Vermelho
+- Vermelho-arroxeado
+
+
+Cores frias:
+
+- Roxo
+- Azul-arroxeado
+- Azul
+- Azul-esverdeado
+- Verde
+- Amarelo-esverdeado
+
+
+
