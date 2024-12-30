@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping tags</title>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: rgb(130, 130, 130);
+            margin: 0px;
+        }
+
+        header {
+            background-color: rgb(255, 255, 255);
+            padding: 10px;
+            margin: 10px;
+        }
+
+        nav {
+            background-color: rgb(250, 250, 0);
+            padding: 3px;
+            box-shadow: 2px 3px 2px rgb(130, 130, 130)
+        }
+
+        nav > a {
+            text-decoration: none;
+            color: rgb(255, 255, 255);
+            font-weight: bold;
+            text-shadow: 1px 2px 1px black;
+            margin-right: 70px;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+            color: rgb(255, 255, 255);
+        }
+
+        main {
+            background-color: rgb(255, 255, 255);
+            padding: 10px;
+            margin: 10px;
+            border-radius: 0px 20px;
+            box-shadow: 3px 5px 3px rgb(75, 75, 75);
+        }
+
+        main a {
+            font-size: 0.9em;
+            text-decoration: none;
+            font-weight: 100;
+            padding: 3px;
+            margin: 2px;
+            color: rgb(255, 255, 255);
+            background-color: rgb(6, 6, 7);
+        }
+
+        main a:hover {
+            text-decoration: underline;
+            color: rgb(200, 200, 200);
+        }
+
+        article{
+            background-color: rgb(220, 220, 202);
+            padding: 5px;
+        }
+
+        article > aside {
+            background-color: rgb(180, 180, 180);
+        }
+        footer {
+            background-color: rgb(75, 75, 75);
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 5px;
+            margin: 0px;
+        }
+
+        footer > p {
+            margin: 0px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu site</h1>
+        <nav>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="ASSUNTOS">
+            <a href="#">POLÍTICA</a>
+            <a href="#">ECONOMIA</a>
+            <a href="#">INTERNACIONAL</a>
+            <a href="#">SAÚDE</a>
+            <a href="#">EDUCAÇÃO</a>
+            <a href="#">ESPORTE</a>
+        </section>
+        <section id="NOTÍCIAS">
+            <article>
+                <h2>Assunto sobre o Santos FC</h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea magni molestias perspiciatis corporis, reprehenderit est. Ipsum pariatur quibusdam maxime ipsam consequuntur aperiam, eligendi voluptatem quaerat necessitatibus a dolor fugiat molestias. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima, inventore iusto totam enim necessitatibus officiis exercitationem fugiat fugit, magni aspernatur animi error, rerum qui similique accusamus. Blanditiis est expedita sed?</p>
+                <aside>Artigo escrito por Felipe Noronha</aside>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>Desenvolvido por Otavio Carvalho</p>
+    </footer>
+</body>
+</html>
