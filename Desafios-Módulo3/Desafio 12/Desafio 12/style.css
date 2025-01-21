@@ -1,0 +1,66 @@
+@charset "URF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+hhtml,
+body {
+    height: 100vh;
+    background-color: darkgray;
+}
+
+header {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+header h1 {
+    padding: 1rem 0;
+    font-variant: small-caps;
+}
+
+header p {
+    padding: 0.5rem 0;
+}
+
+header a,
+footer a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+header a:hover,
+footer a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 10vh 0 10vh 4%;
+    line-height: 2rem;
+}
+
+section.normal {
+    color: black;
+    background-color: white;
+}
+
+section.imagem {
+    color: white;
+    background-color: rgb(60, 60, 60);
+}
+
+section.imagem p {
+    max-width: 400px;
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+footer {
+    padding: 0.5rem 0;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
