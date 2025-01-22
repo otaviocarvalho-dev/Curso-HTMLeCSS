@@ -5,6 +5,7 @@ body {
 }
 
 table {
+    position: relative;
     width: 500px;
     border-collapse: collapse;
     border: 1px solid black;
@@ -19,7 +20,22 @@ caption {
 
 thead,
 tfoot {
-    background-color: rgb(180, 180, 180);
+    color: white;
+    background-color: rgb(120, 120, 120);
+}
+
+thead>tr>th {
+    position: sticky;
+    top: -1px;
+    background-color: rgb(120, 120, 120);
+}
+
+tbody {
+    background-color: rgb(200, 200, 200);
+}
+
+tbody>tr:nth-child(2n) {
+    background-color: rgb(255, 255, 150);
 }
 
 td,
